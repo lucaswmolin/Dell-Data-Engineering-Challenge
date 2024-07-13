@@ -1,0 +1,12 @@
+Conclusions
+
+As a result of data analysis, I found that by the 50th week of 2021 there were more than 273 million cases of COVID-19 around the world, with the United States, India, Brazil, United Kingdom and Russia among the top 5. 
+However, considering cases per 100,000 inhabitants, the top 5 was made up of the countries Bahrain, Seychelles, Andorra, United Arab Emirates and Gibraltar.
+
+In the same context, the total number of deaths was over 5 million. 
+The 10 countries with the highest number of deaths were, respectively, USA, Brazil, India, Russia, Mexico, Peru, United Kingdom, Indonesia, Italy and Iran. 
+However, in deaths per 100,000 inhabitants, Peru led the ranking, followed by Bulgaria, Macedonia, Hungary and Gibraltar.
+
+To calculate the Pearson correlation between number of cases and number of cell phones, a coefficient of 0.55 was obtained, indicating a weak correlation.
+
+To calculate the Pearson correlation between number of cases and number of visitors, a coefficient of 0.60 was obtained, indicating a moderated correlation.
